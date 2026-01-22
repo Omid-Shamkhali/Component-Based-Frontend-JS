@@ -5,6 +5,10 @@ This project demonstrates how to create reusable, isolated UI components without
 
 ---
 
+## 🚀 Live Demo & Overview
+
+[![View Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=github)](https://omid-shamkhali.github.io/Component-Based-Frontend-JS/)
+
 ## ✨ Features
 
 - ⚡ Built with **Pure JavaScript (ES6+)**
