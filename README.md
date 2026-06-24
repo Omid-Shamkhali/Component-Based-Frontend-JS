@@ -6,6 +6,10 @@ This project demonstrates how to create reusable, isolated UI components without
 ---
 
 ## 🚀 Live Demo & Overview
+The live demo renders a course listing page built entirely 
+with custom Web Components — no frameworks used.
+Each course card is a reusable <site-course> component 
+with Shadow DOM encapsulation.
 
 [![View Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=github)](https://omid-shamkhali.github.io/Component-Based-Frontend-JS/)
 
